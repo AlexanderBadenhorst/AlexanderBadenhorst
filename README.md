@@ -68,14 +68,6 @@ I’m a bagpiper with the Transvaal Scottish Pipe Band. I love peaceful early mo
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AlexanderBadenhorst&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=AlexanderBadenhorst&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBadenhorst&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=AlexanderBadenhorst&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
