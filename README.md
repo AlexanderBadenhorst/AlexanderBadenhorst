@@ -1,9 +1,3 @@
-# 🚀 Alexander Badenhorst
-
-### *Full-stack developer specialising in Java, Spring Boot, PostgreSQL, REST APIs, and modern web tooling.*
-
----
-
 # 💫 About Me
 
 **🧑‍💻 Currently working on**  
