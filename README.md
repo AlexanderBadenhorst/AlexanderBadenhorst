@@ -22,7 +22,7 @@ Advanced Java, Spring Boot, SQL storytelling, Docker, database design, MERN stac
 My coding journey, Java, SQL, backend development, discipline, tooling… or even bagpipes.
 
 **⚡ Fun fact**  
-I’m a bagpiper with the Transvaal Scottish Pipe Band. I love peaceful early mornings, walking in the bush, making fires and braais, and I’ll always choose a quiet movie night over clubbing.
+Outside of coding, I’m a bagpiper with the Transvaal Scottish Pipe Band. I enjoy early mornings in the bush, relaxing around a braai, and developing my marksmanship and firearm-handling skills.
 
 ---
 
